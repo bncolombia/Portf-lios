@@ -71,3 +71,10 @@ I develop modern interfaces and custom maps, always focusing on quality, organiz
 
 ![Alt text](/imgs/21.png "a title")
 ![Alt text](/imgs/22.png "a title")
+
+## ⚒️ Map Loterica
+
+![Alt text](/imgs/23.png "a title")
+![Alt text](/imgs/24.png "a title")
+![Alt text](/imgs/25.png "a title")
+![Alt text](/imgs/26.png "a title")
