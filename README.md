@@ -84,4 +84,4 @@ I develop modern interfaces and custom maps, always focusing on quality, organiz
 ![Alt text](/imgs/27.png "a title")
 ![Alt text](/imgs/28.png "a title")
 ![Alt text](/imgs/29.png "a title")
-![Alt text](/imgs/29.png "a title")
+![Alt text](/imgs/30.png "a title")
